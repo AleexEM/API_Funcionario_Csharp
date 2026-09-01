@@ -54,6 +54,7 @@ public class FuncionarioService : IFuncionarioService
         var setorExiste = await _setorRepository.GetByIdAsync(funcionario.SetorId);
         if (setorExiste == null)
             return (null, $"O setor com ID {funcionario.SetorId} não existe.");
+        funcionario.Enderecos.Clear();
 
         var novoFuncionario = await _funcionarioRepository.AddAsync(funcionario);
         return (novoFuncionario, null);
