@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s/OrA/LeRHc=",
+  "dgSpecHash": "kdYMcZ2wkUY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\moc\\Documents\\GitHub\\API_Funcionario\\API03\\API03.csproj",
+  "projectFilePath": "C:\\Users\\moc\\Documents\\GitHub\\API_Funcionario\\API_Funcionario_Csharp\\API03\\API03.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\moc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.30\\microsoft.aspnetcore.openapi.8.0.30.nupkg.sha512",

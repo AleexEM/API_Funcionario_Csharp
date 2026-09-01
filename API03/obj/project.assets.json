@@ -2705,11 +2705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moc\\Documents\\GitHub\\API_Funcionario\\API03\\API03.csproj",
+      "projectUniqueName": "C:\\Users\\moc\\Documents\\GitHub\\API_Funcionario\\API_Funcionario_Csharp\\API03\\API03.csproj",
       "projectName": "API03",
-      "projectPath": "C:\\Users\\moc\\Documents\\GitHub\\API_Funcionario\\API03\\API03.csproj",
+      "projectPath": "C:\\Users\\moc\\Documents\\GitHub\\API_Funcionario\\API_Funcionario_Csharp\\API03\\API03.csproj",
       "packagesPath": "C:\\Users\\moc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moc\\Documents\\GitHub\\API_Funcionario\\API03\\obj\\",
+      "outputPath": "C:\\Users\\moc\\Documents\\GitHub\\API_Funcionario\\API_Funcionario_Csharp\\API03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moc\\AppData\\Roaming\\NuGet\\NuGet.Config",
