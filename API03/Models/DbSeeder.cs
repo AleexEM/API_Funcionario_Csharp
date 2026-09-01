@@ -2,10 +2,6 @@ using API03.Infra;
 
 namespace API03.Models;
 
-
-
-
-
 public static class DbSeeder
 {
     public static void Seed(AppDbContext context)
